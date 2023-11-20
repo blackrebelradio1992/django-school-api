@@ -75,3 +75,4 @@ Now you can run the test suite by typing the following
 - `.` means a test passed
 - `E` means an unhandled error populated on a test
 - `F` means a test completely failed to run
+# django-school-api
